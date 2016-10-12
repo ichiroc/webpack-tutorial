@@ -1,3 +1,3 @@
 // http://webpack.github.io/docs/tutorials/getting-started/
 
-document.write('It works');
+document.write(require('./content.js'));
